@@ -1,1 +1,0 @@
-# nfl-scores-heatmap
